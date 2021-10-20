@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho com desenvolvimento de sistemas web em geral
 - 🌱 Atualmente estudando back-end
-- 👯 Busco colaborar em preojetos web e aceito sujestões e colaborações 
+- 👯 Busco colaborar em projetos web e aceito sujestões e colaborações 
 - 💬 fale comigo atráves dos e-mails: ivan-guita@hotmail.com ou ivanrns44gmail.com
 
 <div align="center">
