@@ -3,8 +3,8 @@
 
 
 - 🔭 Hoje tenho como objetivo obter conhecimento fullkstack em tecnologias web
-- 🌱 Atualmente estudando back-end
-- 👯 Busco colaborar em projetos web e aceito sujestões e colaborações 
+- Atualmente estudando back-end
+-Busco colaborar em projetos web e aceito sujestões e colaborações 
 - 💬 fale comigo atráves dos e-mails: ivan-guita@hotmail.com ou ivanrns44gmail.com
 - Campo de estudo
 - LINGUAGENS: JS,PHP,TS,SQL,JAVA.
