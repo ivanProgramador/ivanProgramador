@@ -7,6 +7,7 @@
 - Busco colaborar em projetos web e aceito sujestões e colaborações 
 - 💬 fale comigo atráves dos e-mails: ivan-guita@hotmail.com ou ivanrns44gmail.com
 - Campo de estudo
+- TDD (JEST)
 - LINGUAGENS: JS,PHP,TS,SQL,JAVA.
 - BASES DE DADOS E SGBDS
 - MYSQL, SQL SERVER, MONGO DB
