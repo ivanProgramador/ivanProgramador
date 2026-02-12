@@ -2,12 +2,13 @@
 
 
 
-- 🔭 Hoje tenho como objetivo obter conhecimento fullkstack em tecnologias web
-- Atualmente estudando back-end / front-end
-- Busco colaborar em projetos web e aceito sujestões e colaborações 
-- 💬 fale comigo atráves dos e-mails: ivan-guita@hotmail.com ou ivanrns44gmail.com
+- 🔭 Hoje tenho como objetivo desenvolver sistemas com tecnoclogias web fullstack
+- Atualmente desenvolvendo sistemas backend / frontend
+- posso colaborar em projetos web e também aceito sujestões e colaborações 
+- 💬 fale comigo atráves do e-mail: ivanrns44gmail.com
 - Campo de estudo
-- TDD (JEST)
+- TESTES
+- TDD (JEST), PEST.php 
 - LINGUAGENS: JS,PHP,TS,SQL,JAVA.
 - BASES DE DADOS E SGBDS
 - MYSQL, SQL SERVER, MONGO DB
@@ -16,6 +17,6 @@
 - BIBLIOTECAS E TECNOLOGIAS:
 - LARAVEL 12
 - BLADE, ELOQUENT(ORM) ,LARAVEL QUERY BUILDER, LIVEWIRE, LARAVEL BREEZE, FORTIFY, CONTROLE DE ACESSO COM (POLICIES E GATES).  
-- REACT,NEXT JS, VUE,ANGULAR, BOOTSTRAP, BULMA, EXPRESS, SEQUELIZE, AXIOS, BODY-PARSER, CORS, MYSQL2, KNEX, EJS, WEB SOCKET,MONGOOSE,FULL CALENDAR, TAIL WIND, REACT NATIVE.
+- REACT, NEXT JS, INERTIA, VUE, ANGULAR, BOOTSTRAP, BULMA, EXPRESS, SEQUELIZE, AXIOS, BODY-PARSER, CORS, MYSQL2, KNEX, EJS, WEB SOCKET,MONGOOSE,FULL CALENDAR, TAIL WIND, REACT NATIVE.
 
 
