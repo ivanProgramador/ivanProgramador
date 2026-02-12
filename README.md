@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje tenho como objetivo desenvolver sistemas com tecnologias web fullstack
-- Atualmente desenvolvendo sistemas backend / frontend
+- Atualmente desenvolvendo sistemas web com laravel backend/frontend
 - posso colaborar em projetos web e também aceito sujestões e colaborações 
 - 💬 fale comigo atráves do e-mail: ivanrns44gmail.com
 - Campo de estudo
