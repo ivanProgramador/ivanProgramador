@@ -1,7 +1,7 @@
  ### Olá eu sou Ivan Rodrigues, Analista de Sistemas e Programador 👋
 
 
-- 🔭 Hoje tenho como objetivo atauar como desenvolvedor de sistemas WEB e Desktop 
+- 🔭 Hoje tenho como objetivo atuar como desenvolvedor de sistemas WEB e Desktop 
 - Atualmente desenvolvendo sistemas web com DELPH 13,Laravel 13.
 - posso colaborar em projetos web e também aceito sujestões e colaborações 
 - 💬 fale comigo atráves do e-mail: ivanrns44gmail.com
